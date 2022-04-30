@@ -2,8 +2,8 @@
 
 ## Links para os repositórios dos projetos desenvolvidos durante o andamento do Bootcamp
 
-* <a href="">1º projeto</a>
-* <a href="">2º projeto</a> 
+* <a href="https://github.com/klaercio/FlexTurismos">1º projeto - FlexTurismos</a>
+* <a href="">2º projeto</a>
 * <a href="">3º projeto</a> 
 * <a href="">4º projeto</a> 
 * <a href="">5º projeto</a> 
